@@ -1,2 +1,2 @@
-# abhi_sachdeva_spring2024
- ECE 16 LAB 0
+Hi, my name is Abhi Sachdeva and I am a third year electrical engineering major at UCSD. I am excited for ECE 16!
+
